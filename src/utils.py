@@ -1,8 +1,8 @@
 """
 Utility Functions Module
 
-This module contains utility functions used across the application.
-Placeholder for utility functionality.
+This module contains utility functions to use across the application.
+
 """
 
 import os
